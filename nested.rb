@@ -85,6 +85,7 @@ programmer_hash[:yukihiro_matsumoto] = {
   :known_for => "Ruby",
   :languages => ["LISP", "C"]
 }
+return programmer_hash
 my_hash = programmer_hash[:yukihiro_matsumoto]
 array = my_hash.keys
 end
